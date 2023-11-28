@@ -2,8 +2,6 @@
 
 Code for building a machine Learning powered app to decide whether a photo is of food or not.
 
-See it working live at: https://foodnotfood.app
-
 Yes, that's all it does.
 
 It's not perfect.
